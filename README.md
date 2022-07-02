@@ -3,7 +3,7 @@ En un mercado competitivo, una empresa podrá ser rentable en los próximos año
 En los siguientes proyectos, se gestiona big data corporativa en bases de datos relacionales con SQL (Structured Query Language) en MySQL y Teradata. 
 
 -  MySQL: a partir de una base de datos comercial de más de un millón de filas, se confecciona una carpeta de consultas para analizar datos y obtener información de valor con el fin de aumentar las ventas y alcanzar los objetivos comerciales. Se realizaron consultas con los siguientes lineamientos:
-1. Verificar y describir todo el contenido de la base de datos.
+1. [Verificar y describir todo el contenido de la base de datos](https://vanefigueroa.github.io/Verificaci-n-descripci-n-de-base-de-datos/)
 2. Recuperar datos que cumplen criterios específicos mediante las cláusulas optimizando recursos mediante las cláusulas SELECT, FROM, WHERE, LIMIT y TOP.
 3. Formatear datos recuperados usando alias, cláusulas DISTINCT y cláusulas ORDER BY.
 4. Obtención de resumen de valores de columnas enteras y dividir esos resúmenes según variables o valores específicos en otras columnas usando cláusulas GROUP BY y HAVING.
