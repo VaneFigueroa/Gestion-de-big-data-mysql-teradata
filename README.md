@@ -20,7 +20,7 @@ Se trabaja con una base de datos de una empresa que ofrece servicios por interne
 Enlaces últiles:
 - [https://www.w3resource.com/mysql/mysql-functions-and-operators.php](https://www.w3resource.com/mysql/mysql-functions-and-operators.php)
 - [https://dev.mysql.com/doc/refman/5.7/en/keywords.html](https://dev.mysql.com/doc/refman/5.7/en/keywords.html)
-- [http:]//www.tutorialspoint.com/sql/sql-top-clause.htm](http://www.tutorialspoint.com/sql/sql-top-clause.htm)
+- [http://www.tutorialspoint.com/sql/sql-top-clause.htm](http://www.tutorialspoint.com/sql/sql-top-clause.htm)
 - [http://www.sqlcommands.net/sqltrainingpreparation.php](http://www.sqlcommands.net/sqltrainingpreparation.php)
 - [https://www.w3schools.com/sql/func_mysql_date_sub.asp](https://www.w3schools.com/sql/func_mysql_date_sub.asp)
 
