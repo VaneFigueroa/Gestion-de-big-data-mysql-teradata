@@ -1,11 +1,10 @@
 # Gestión de big data con MySQL y Teradata
-En un mercado competitivo, una empresa podrá ser rentable en los próximos años, sólo si mejora la gestión y análisis de datos de sus operaciones comerciales. 
-En los siguientes proyectos, se gestiona big data corporativa en bases de datos relacionales con SQL (Structured Query Language) en MySQL y Teradata. 
+En este proyecto, se armó un sumario de consultas que pueden servir de orientación o práctica en la tarea de recuperación de datos de una base relacional para crear recomendaciones procesables para un negocio.  Las consultas se realizaron a bases de datos comerciales del curso de Managing Big Data with MySQL del programa de Especialización de Analytic Techniques for Business de la Universidad de Duke. Los notebooks de consultas están dispuestos en orden creciente según la complejidad en los códigos de las consultas. 
 
 ## MySQL
-A partir de una base de datos comercial de más de un millón de filas, se confecciona una carpeta de consultas para analizar datos y obtener información de valor con el fin de aumentar las ventas y alcanzar los objetivos comerciales. Se realizaron consultas con los siguientes lineamientos:
+A partir de una base de datos comercial de más de un millón de filas, se confecciona una carpeta de consultas para analizar datos y obtener información de valor con el fin de aumentar las ventas y alcanzar los objetivos comerciales. 
   1. [Verificar y describir todo el contenido de la base de datos.](https://vanefigueroa.github.io/Verificaci-n-descripci-n-de-base-de-datos/)
-  2. [Recuperar datos que cumplen criterios específicos optimizando recursos mediante las cláusulas SELECT, FROM, WHERE, LIMIT y TOP.](https://vanefigueroa.github.io/Obtenci-n-de-datos-con-criterios-espec-ficos-/)
+  2. [Recuperar datos que cumplen criterios específicos optimizando recursos mediante las cláusulas SELECT, FROM, WHERE, LIMIT y TOP. Operadores =, !=, <, > y operadores lógicos AND, OR, IN y funciones LIKE y de fechas](https://vanefigueroa.github.io/Obtenci-n-de-datos-con-criterios-espec-ficos-/)
   3. [Formatear datos recuperados usando alias, cláusulas DISTINCT y ORDER BY.](https://vanefigueroa.github.io/Formatear-datos-recuperados/)
   4. Obtención de resumen de valores de columnas enteras y dividir esos resúmenes según variables o valores específicos en otras columnas usando cláusulas GROUP BY y HAVING.
   5. Combinar información de varias tablas uso de uniones internas y externas.
