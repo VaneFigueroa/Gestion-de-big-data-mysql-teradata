@@ -4,12 +4,11 @@ En este proyecto, se armó un sumario de consultas que pueden servir de orientac
 ## MySQL
 Se trabaja con una base de datos, de más de un millón de filas, de una empresa que ofrece servicios por internet, que consta de juegos para realizar con mascotas. La empresa evalúa la performance de su producto en términos de la tasa de finalización de las pruebas, entonces, cualquier insight para empujar a los usuarios a completar las pruebas sería útil desde la perspectiva empresarial.
 
-
  1. [Verificación y descripción del contenido de la base de datos.](https://vanefigueroa.github.io/Verificaci-n-descripci-n-de-base-de-datos/)
  2. [Recuperación de datos que cumplen criterios específicos, optimizando recursos mediante las cláusulas SELECT, FROM, WHERE, LIMIT y TOP. Operadores =, !=, <, > y operadores lógicos AND, OR, IN y funciones LIKE y de fechas](https://vanefigueroa.github.io/Obtenci-n-de-datos-con-criterios-espec-ficos-/)
  3. [Formateo de datos recuperados usando alias, cláusulas DISTINCT y ORDER BY.](https://vanefigueroa.github.io/Formatear-datos-recuperados/)
- 4. [Obtención de medidas resúmenes usando cláusulas GROUP BY y HAVING. Funciones agregadas más comunes que se utilizan para resumir la información almacenada en tablas: AVG(), COUNT(), MAX(), MIN() y SUM(). Revisamos problemas de desajustes de agregación. Función lógica ISNULL(). Funciones de tiempo; TIMESTAMPDIF() y MONTH().](https://vanefigueroa.github.io/Obtenci-n-de-medidas-res-menes/)
- 5. Combinar información de varias tablas uso de uniones internas y externas.](https://vanefigueroa.github.io/Obtenci-n-de-medidas-res-menes/)
+ 4. [Obtención de medidas resúmenes usando cláusulas GROUP BY y HAVING. Funciones agregadas AVG(), COUNT(), MAX(), MIN() y SUM(). Revisamos problemas de desajustes de agregación. Función lógica ISNULL(). Funciones de tiempo; TIMESTAMPDIF() y MONTH().](https://vanefigueroa.github.io/Obtenci-n-de-medidas-res-menes/)
+ 5. Combinar información de varias tablas uso de uniones internas y externas.
  6. Usar estrategias para administrar uniones entre tablas con filas duplicadas, relaciones de muchos a muchos y configuraciones atípicas.
  7. Diseñar y ejecutar subconsultas.
  8. Introducir condiciones lógicas en sus consultas usando declaraciones IF y CASE.
