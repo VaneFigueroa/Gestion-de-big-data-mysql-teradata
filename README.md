@@ -8,9 +8,8 @@ Se trabaja con una base de datos, de más de un millón de filas, de una empresa
  2. [Recuperación de datos con criterios específicos, optimizando recursos mediante las cláusulas SELECT, FROM, WHERE, LIMIT y TOP. Operadores =, !=, <, > y operadores lógicos AND, OR, IN y funciones LIKE y de fechas](https://vanefigueroa.github.io/Obtenci-n-de-datos-con-criterios-espec-ficos-/)
  3. [Formateo de datos recuperados usando alias, cláusulas DISTINCT y ORDER BY.](https://vanefigueroa.github.io/Formatear-datos-recuperados/)
  4. [Obtención de medidas resúmenes usando cláusulas GROUP BY y HAVING. Funciones agregadas AVG(), COUNT(), MAX(), MIN() y SUM(). Revisión de problemas de desajustes de agregación. Función lógica ISNULL(). Funciones de tiempo; TIMESTAMPDIF() y MONTH().](https://vanefigueroa.github.io/Obtenci-n-de-medidas-res-menes/)
- 5. Combinar información de varias tablas uso de uniones internas y externas.
- 6. Usar estrategias para administrar uniones entre tablas con filas duplicadas, relaciones de muchos a muchos y configuraciones atípicas.
- 7. [Subconsultas y tablas derivadas. Operadores IN, NOT IN, EXISTS y NOT EXISTS.]( https://vanefigueroa.github.io/Subconsultas-y-tablas-derivadas/)
+ 5. [Combinación de información de varias tablas. Uniones internas y externas. Estrategias para administrar uniones entre tablas con filas duplicadas, relaciones de muchos a muchos y configuraciones atípicas.](https://vanefigueroa.github.io/Uniones-de-tablas/)
+ 6. [Subconsultas y tablas derivadas. Operadores IN, NOT IN, EXISTS y NOT EXISTS.]( https://vanefigueroa.github.io/Subconsultas-y-tablas-derivadas/)
  8. Introducir condiciones lógicas en sus consultas usando declaraciones IF y CASE.
  9. Implementar análisis que se adapten a datos faltantes o errores de datos.
  10. Consultas complejas que incorporen muchas tablas y cláusulas.
