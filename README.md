@@ -10,7 +10,7 @@ Se trabaja con una base de datos, de más de un millón de filas, de una empresa
  4. [Obtención de medidas resúmenes usando cláusulas GROUP BY y HAVING. Funciones agregadas AVG(), COUNT(), MAX(), MIN() y SUM(). Revisión de problemas de desajustes de agregación. Función lógica ISNULL(). Funciones de tiempo; TIMESTAMPDIF() y MONTH().](https://vanefigueroa.github.io/Obtenci-n-de-medidas-res-menes/)
  5. Combinar información de varias tablas uso de uniones internas y externas.
  6. Usar estrategias para administrar uniones entre tablas con filas duplicadas, relaciones de muchos a muchos y configuraciones atípicas.
- 7. [Diseño y ejecución de subconsultas.]( https://vanefigueroa.github.io/Subconsultas-y-tablas-derivadas/)
+ 7. [Subconsultas y tablas derivadas.]( https://vanefigueroa.github.io/Subconsultas-y-tablas-derivadas/)
  8. Introducir condiciones lógicas en sus consultas usando declaraciones IF y CASE.
  9. Implementar análisis que se adapten a datos faltantes o errores de datos.
  10. Consultas complejas que incorporen muchas tablas y cláusulas.
